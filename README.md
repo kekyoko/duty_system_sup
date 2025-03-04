@@ -6,9 +6,8 @@ This system is designed for managing patrols and logistics tasks in a gaming env
 
 ## Installation
 
-1. Copy the files into your project folder.
-2. Ensure that all necessary dependencies are installed.
-3. Start the server and check that the system works correctly.
+1. Copy the files into ..\addons\...
+2. Start the server and check that the system works correctly.
 
 ## Functions
 
